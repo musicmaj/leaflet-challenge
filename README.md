@@ -1,2 +1,4 @@
 # leaflet-challenge
 Module 15 Challenge
+This challenge utilized a GeoJSON dataset taken from earthquake.usgs.gov and Leaflet to create a map that plots all the earthquakes from the dataset based on their latitude and longitude. Marker size is determined by the magnitude of the earthquake, and the depth/opacity is determined by the depth of the earthquake. Popups are included with additional information when an assoicated marker is clicked. A legend with a description of the map is included at the bottom right of the map.
+Starter code was provided by Alexander Booth in an in-class activity, additional code for markers was researched and utilized from leafletjs.com, and tutoring for efficiency of code and output was provided by Anna Poulakos.
